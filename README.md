@@ -19,7 +19,7 @@ URL:
 - スピーカー(なんでも)
 
 # Installation
-下記コマンドで好きなディレクトリにクローンします
+下記コマンドで好きなディレクトリにクローンします  
 '''
 $ git clone https://github.com/coffiego/heteroconger_codama.git
 '''
@@ -31,6 +31,18 @@ codamaの[wiki](https://github.com/YUKAI/codama-doc-r0/wiki/Codama-Setup)を参�
 	- こちらで取得したAPI keyをrecord2text.pyのAPIKEY="your API key"に入力する
 	- record2text.pyのoutput.wavの"yourpath/output.wav"に現在のディレクトリのpathに変更
 - openJtalkの[セットアップ](https://qiita.com/coffiego/items/4fc3b0be78fcded3eef0)を行う
+- wakeup2record2text2rep.py(mainのcode)の中でimportされているライブラリーをラズパイにインストール
 
+# Usage
+デモは以下のコマンドで実行できます。  
+'''
+$ cd ~/heteroconger_codama
+$ python3 demofile.py
+'''
+demofile.pyをdemo1.py, demo2.py, demo3.pyなどのように変えてください。
 
- 
+# Collaborators
+- [Kuwamai](https://github.com/Kuwamai)
+
+# License
+This repository is licensed under the MIT license.
