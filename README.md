@@ -40,6 +40,11 @@ $ cd ~/heteroconger_codama
 $ python3 demofile.py
 ```
 demofile.pyをdemo1.py, demo2.py, demo3.pyなどのように変えてください。
+<br>
+- Codamaの赤い点滅しなくなりずっと赤になってハングアップ状態のときはcodamaをrebootする  
+```
+codama_reboot.sh
+```
 
 # Collaborators
 - [Kuwamai](https://github.com/Kuwamai)
