@@ -1,5 +1,5 @@
 # heteroconger_codama
-![こだまちゃん]()  
+![こだまちゃん](https://github.com/coffiego/heteroconger_codama/blob/images/codama.jpg?raw=true)  
 
 ## Desciption
 チンアナゴをモチーフにしたコミュニケーションロボット。こだまちゃん。  
