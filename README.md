@@ -53,8 +53,8 @@ $ python3 demofile.py
 ```
 demofile.pyをdemo1.py, demo2.py, demo3.pyなどのように変えてください。
 <br>
-- demo2.pyで音楽ファイルについて  
-ラジオ体操を流していますがこのrepositoryには載せていません。  
+- demo2.pyで使用する音楽ファイルについて  
+デモ動画ではラジオ体操を流していますがこのrepositoryには載せていません。  
 自分の好きな音楽ファイルを用意し、  
 80行目のファイル名を書き変えてください。
 ```
