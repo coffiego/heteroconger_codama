@@ -49,12 +49,12 @@ demofile.pyをdemo1.py, demo2.py, demo3.pyなどのように変えてくださ�
 ```
 pygame.mixer.music.load("your_music_filename.mp3")
 ```
-<br>
+
 - Codamaの赤い点滅しなくなりずっと赤になってハングアップ状態のときはcodamaをrebootする  
 ```
 codama_reboot.sh
 ```
-<br>
+
 # Collaborators
 - [Kuwamai](https://github.com/Kuwamai)
 
