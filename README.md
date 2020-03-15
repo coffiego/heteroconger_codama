@@ -54,7 +54,7 @@ pygame.mixer.music.load("your_music_filename.mp3")
 ```
 codama_reboot.sh
 ```
-
+<br>
 # Collaborators
 - [Kuwamai](https://github.com/Kuwamai)
 
