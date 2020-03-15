@@ -20,9 +20,9 @@ URL:
 
 # Installation
 下記コマンドで好きなディレクトリにクローンします  
-'''
+'''  
 $ git clone https://github.com/coffiego/heteroconger_codama.git
-'''
+'''  
 
 # Setup
 - Codamaのセットアップ(wakeup wordの登録まで)  
