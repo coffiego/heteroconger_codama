@@ -20,9 +20,9 @@ URL:
 
 # Installation
 下記コマンドで好きなディレクトリにクローンします  
-'''  
+```
 $ git clone https://github.com/coffiego/heteroconger_codama.git  
-'''  
+```  
 
 # Setup
 - Codamaのセットアップ(wakeup wordの登録まで)  
@@ -35,10 +35,10 @@ codamaの[wiki](https://github.com/YUKAI/codama-doc-r0/wiki/Codama-Setup)を参�
 
 # Usage
 デモは以下のコマンドで実行できます。  
-'''
+```
 $ cd ~/heteroconger_codama
 $ python3 demofile.py
-'''
+```
 demofile.pyをdemo1.py, demo2.py, demo3.pyなどのように変えてください。
 
 # Collaborators
