@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 11 15:32:37 2020
-
-@author: shungokoyama
-"""
 
 import set_joint_trajectory
 
