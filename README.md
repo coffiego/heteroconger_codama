@@ -21,7 +21,7 @@ URL:
 # Installation
 下記コマンドで好きなディレクトリにクローンします  
 '''  
-$ git clone https://github.com/coffiego/heteroconger_codama.git
+$ git clone https://github.com/coffiego/heteroconger_codama.git  
 '''  
 
 # Setup
