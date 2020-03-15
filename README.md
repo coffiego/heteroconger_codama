@@ -1,16 +1,17 @@
 # Desciption
 チンアナゴをモチーフにしたロボット。こだまちゃん。  
-こちらはユカイ工学でインターンした時に製作したものです。  
+こちらはユカイ工学でインターン(2020/3/9-13)した時に製作したものです。  
 ユカイ工学が出している[codama](https://codama.ux-xu.com/)を使っています。  
 ![こだまちゃん]()  
 
 # Demo
 - Demo1: ユーザーが話しかけていなくて拗ねている時  
-URL: 
+URL: https://youtu.be/zR2s3bXyQ2Q 
 - Demo2:ユーザーが運動不足のとき、ラジオ体操流す  
-URL:
+URL: https://youtu.be/Ad_qbySO8Vo
 - Demo3: こだまちゃんが眠いとき  
-URL: 
+URL: https://youtu.be/dl3Lls3Y3Gs
+
 
 # Requirements
 - Raspberry Pi3 model B+
@@ -40,6 +41,14 @@ $ cd ~/heteroconger_codama
 $ python3 demofile.py
 ```
 demofile.pyをdemo1.py, demo2.py, demo3.pyなどのように変えてください。
+<br>
+- demo2.pyで音楽ファイルについて  
+ラジオ体操を流していますがこのrepositoryには載せていません。  
+自分の好きな音楽ファイルをこのフォルダーに入れて、  
+80行目のファイル名を変えてください。
+```
+pygame.mixer.music.load("your_music_filename.mp3")
+```
 <br>
 - Codamaの赤い点滅しなくなりずっと赤になってハングアップ状態のときはcodamaをrebootする  
 ```
