@@ -39,6 +39,7 @@ codamaの[wiki](https://github.com/YUKAI/codama-doc-r2/wiki/Codama-Setup)を参�
 	- record2text.pyの"yourpath/output.wav"をリポジトリをクローンしたpathに変更
 - openJtalkの[セットアップ](https://qiita.com/coffiego/items/4fc3b0be78fcded3eef0)を行う
 - wakeup2record2text2rep.py(mainのcode)の中でimportされているライブラリーをラズパイにインストール
+- 3つのサーボモータに5Vを供給し、信号線をRaspberry PiのGPIO 4, 5, 6番に接続します
 
 ## Usage
 下記コマンドを実行し、Codamaの音声検出範囲を広げます。  
